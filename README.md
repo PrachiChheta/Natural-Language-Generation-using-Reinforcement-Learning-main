@@ -33,7 +33,3 @@ I added an additional option `--batch_split_size` to `train_nmt.py` and `train_n
 ### BLEU scores
 By default, the BLEU scores computed by this codebase do not assume any additional (de-)tokenization. Thus, if you need more specific ways to compute BLEU scores, you need to modify `bleu.sh` to incorporate your (de-)tokenization tools.
 
-## Questions?
-Any issues and PRs are welcome.
-
-E-mail: ksidshashank@gmail.com
